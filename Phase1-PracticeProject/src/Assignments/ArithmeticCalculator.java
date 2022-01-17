@@ -1,4 +1,4 @@
- package Assignments;
+ package Demo;
  import java.util.Scanner;
  public class ArithmeticCalculator {
 	public static void main(String[] args) {
